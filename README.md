@@ -4,6 +4,8 @@ Author: Ran Zhu @SEU https://github.com/RanZhu1989
 
 This package is a cross-platform OpenDSS Python Interface. It is a wrapper of OpenDSS Direct DLL. The package is developed based on the OpenDSSdirect Project (https://github.com/dss-extensions/OpenDSSDirect.py). The purpose of this package is to provide a convenient way to use OpenDSS in Python, especially for operating data generating and reinforcement learning. The package is still under development. Any suggestions are welcome.
 
+The ipynb file is a tutorial for the package.
+
 Environment:
 
 * python == 3.8
